@@ -1,0 +1,10 @@
+What is the problem you want to solve
+I intend to explore the Lending Club Data Set in order to identify possible features that may be used to predict whether loans will default or not.
+Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
+My client is an imaginary bank CTO or CRO looking to either provide their loan officers a tool to improve their ability to judge loan applications or a their risk officer a better way to manage risk.
+What data are you going to use for this? How will you acquire this data?
+I am going to be using a data set from the Lending Club, they provide this data online.
+In brief, outline your approach to solving this problem (knowing that this might change later).
+I will apply several supervised machine learning algorithms to the data and see if any of them have strong predictive capabilities.
+What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
+I will deliver an iPython notebook, a short paper, and a slide deck. The notebook will be focused on the technical aspects, the short paper will describe the process in detail, and the slide deck will be a simplified version aimed at providing the backdrop to a presentation in a meeting room.
